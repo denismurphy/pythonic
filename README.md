@@ -1,6 +1,6 @@
 # 🐍 Pythonic
 
- Pythonic is a selection of code snippets and examples that I compiled while learning Python.
+ Pythonic is a selection of naive code snippets and examples that I compiled while learning Python.
 
 ## 🌟 Features
 
